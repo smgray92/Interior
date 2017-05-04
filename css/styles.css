@@ -1,0 +1,6 @@
+.column {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  width: 300px;
+}
